@@ -1,3 +1,3 @@
 This is an image of the working code.
 
-![CODE_SCREENSHOT](PasswordScreenshot.png)
+![CODE_SCREENSHOT]()
